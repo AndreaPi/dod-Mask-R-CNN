@@ -1,0 +1,6 @@
+implement some  modifications to .env, README and Dockerfile
+
+ - .env: the COCO dataset is now mapped from local
+ - Dockerfile: reverting to the old way of installing the COCO Python API, 
+because the new one didn't work
+ - README: brief description of the repository goal 
